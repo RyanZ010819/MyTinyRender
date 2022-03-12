@@ -23,8 +23,8 @@ Feature accomplished:
 
 Features plan to add:
 
-Phong shading(pixel-wise normal interpolation)
+* Phong shading(pixel-wise normal interpolation)
 
-Bump map and displacement map
+* Bump map and displacement map
 
-and etc...
+* and more...
