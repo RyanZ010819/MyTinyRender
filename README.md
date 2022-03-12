@@ -17,7 +17,7 @@ Feature accomplished:
 
 * Guaraud shading(vertex-wise normal interpolation)
 
-* Basic anti-aliasing(*MSAA)
+* Basic anti-aliasing(*SSAA *MSAA) The anti-aliasing effect can be reviewed in "MSAA.tga" "SSAA.tga" and "withoutAA" respectively
 
 *means additional feature
 
