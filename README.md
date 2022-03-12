@@ -3,19 +3,21 @@ A tiny soft render project following https://github.com/ssloy 's TinyRenderTutor
 
 Feature accomplished:
 
-Bresenham's line drawing algorithm
+* Bresenham's line drawing algorithm
 
-Triangle rasterization
+* Triangle rasterization
 
-MVP transformation
+* MVP transformation
 
-Phong illumination model
+* Hidden surface removal(zbuffer)
 
-Basic texture mapping(Nearest and *Bilinear interpolation)
+* Phong illumination model
 
-Guaraud shading(normal interpolation)
+* Basic texture mapping(Nearest and *Bilinear interpolation)
 
-Basic anti-aliasing(*MSAA)
+* Guaraud shading(vertex-wise normal interpolation)
+
+* Basic anti-aliasing(*MSAA)
 
 *means additional feature
 
