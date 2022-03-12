@@ -17,7 +17,15 @@ Feature accomplished:
 
 * Guaraud shading(vertex-wise normal interpolation)
 
-* Basic anti-aliasing(*SSAA *MSAA) The anti-aliasing effect can be reviewed in "MSAA.tga" "SSAA.tga" and "withoutAA" respectively
+* Basic anti-aliasing(*SSAA *MSAA)
+* Without anti-aliasing
+![WithoutAA](withoutAA.png "withoutAA")
+
+* Multi-sample anti-aliasing
+![MSAA](MSAA.png "MSAA")
+
+* Super-sample anti-aliasing
+![SSAA](SSAA.png "SSAA")
 
 *means additional feature
 
