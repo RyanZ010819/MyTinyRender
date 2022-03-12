@@ -17,7 +17,7 @@ Guaraud shading(normal interpolation)
 
 Basic anti-aliasing(*MSAA)
 
-* means additional feature
+*means additional feature
 
 Features plan to add:
 
