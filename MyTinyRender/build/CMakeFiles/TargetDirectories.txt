@@ -1,3 +1,0 @@
-C:/Users/16413/Desktop/tinyrenderer-master/build/CMakeFiles/tinyrenderer.dir
-C:/Users/16413/Desktop/tinyrenderer-master/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/16413/Desktop/tinyrenderer-master/build/CMakeFiles/ZERO_CHECK.dir
