@@ -31,7 +31,7 @@ Feature accomplished:
 
 Features plan to add:
 
-* Phong shading(pixel-wise normal interpolation)
+* Shadow mapping
 
 * Bump map and displacement map
 
